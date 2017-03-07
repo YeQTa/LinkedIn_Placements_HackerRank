@@ -1,4 +1,4 @@
-// You can reach the problem via this link: https://www.hackerrank.com/challenges/linkedin-practice-bigger-is-greater/submissions/code/37548583
+// You can reach the problem via this link: https://www.hackerrank.com/challenges/linkedin-practice-bigger-is-greater
 
 import java.io.*;
 import java.util.*;
